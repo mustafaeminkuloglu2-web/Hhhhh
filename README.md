@@ -6,9 +6,9 @@ Google'ın dinozor oyununun modern, gelişmiş hali. Tek dosya (`index.html`), k
 
 | | Zıpla | Eğil | Diğer |
 |---|---|---|---|
-| **Klavye** | `Boşluk` / `↑` / `W` (basılı tut = daha yüksek) | `↓` / `S` (havadayken hızlı iniş) | `P`/`Esc` duraklat, `M` ses |
-| **Telefon** | Ekrana dokun veya ▲ butonu | ▼ butonu | ❚❚ duraklat |
-| **Gamepad** | A / D-pad yukarı | B / D-pad aşağı | Start duraklat |
+| **Klavye** | `Boşluk` / `↑` / `W` (basılı tut = daha yüksek) | `↓` / `S` (havadayken hızlı iniş) | `Shift`/`D` atılma, `P`/`Esc` duraklat, `M` ses, `F` tam ekran |
+| **Telefon** | Ekrana dokun veya ▲ butonu | ▼ butonu | » atılma, ⛶ tam ekran (yatay), ❚❚ duraklat |
+| **Gamepad** | A / D-pad yukarı | B / D-pad aşağı | X atılma, Start duraklat |
 
 ## Eklenen özellikler
 
@@ -27,6 +27,17 @@ Google'ın dinozor oyununun modern, gelişmiş hali. Tek dosya (`index.html`), k
 13. **Ses:** Dışarıdan dosya yok. Tüm efektler ve bölgeye göre değişen müzik tarayıcıda sentezlenir.
 14. **Titreşim, ekran sarsıntısı, parçacık efektleri** ve otomatik duraklatma (sekme değişince).
 15. **Rekor, istatistikler, paylaş butonu**, ayarlar (ses, müzik, titreşim, hava efektleri).
+
+## Güncelleme: yeni özellikler
+- **Tam ekran + yatay mod:** ⛶ butonu (veya `F`) tam ekrana geçer ve telefonu yatay kilitlemeyi dener. iPhone Safari tam ekran API'sini desteklemez; telefonu yan çevirip Paylaş > Ana Ekrana Ekle yap.
+- **Görünürlük düzeltmesi:** Arka plan ağaçları/kaktüsleri her bölgede koyu ve net siluetle çiziliyor, engellerin etrafında kontrast halesi var.
+- **11 yükseltme:** Çift Zıplama, Süzülme, Atılma, Hızlı Şarj, Güçlü Bonuslar, Bonus Şansı, Kalkanla Başla, Yeniden Doğuş, Değerli Jetonlar, Çekim Gücü, Puan Ustası.
+- **Atılma (dash):** Engelleri parçalar, sırasında ölümsüzsün, bekleme süresi var.
+- **Yuvarlanan kayalar:** Normalden hızlı gelen yeni engel.
+- **Altın yağmuru:** Belirli aralıklarla jeton yağmuru olayı.
+- **Günlük ödül ve 3 günlük görev**, en iyi 5 skor listesi.
+- **İzler sekmesi:** Dinonun arkasında kıvılcım, buz, kalp, gökkuşağı, ateş izleri.
+- **4 yeni kostüm:** Zombi, Kovboy, Hayalet, Neon. Seri sayacı ve 3 yeni başarım.
 
 ## Çalıştırma
 
